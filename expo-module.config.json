@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["ExpoFileDisplayNameModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.filedisplayname.ExpoFileDisplayNameModule"]
+  }
+}

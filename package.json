@@ -1,0 +1,19 @@
+{
+  "name": "expo-file-display-name",
+  "version": "0.1.0",
+  "description": "Get the real file name (and size, MIME type) of a file URI on Android and iOS, including Android content:// URIs that carry no name.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["react-native", "expo", "content-uri", "display-name", "android", "file-name"],
+  "license": "MIT",
+  "author": "Théodore Aouad",
+  "homepage": "https://github.com/mima-health/expo-file-display-name#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mima-health/expo-file-display-name.git"
+  },
+  "bugs": "https://github.com/mima-health/expo-file-display-name/issues",
+  "peerDependencies": {
+    "expo": "*"
+  }
+}
